@@ -1,0 +1,7 @@
+name: WelcomeMessage
+version: '${project.version}'
+main: configurationfile.welcomemessage.WelcomeMessage
+api-version: 1.18
+commands:
+  reloadpm:
+    description: "Reload the configuration file."
